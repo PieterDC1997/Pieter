@@ -13,7 +13,12 @@ Third, the user should create directories in this directory:
 •	An empty ‘EEG_Source’
 
 If the user completes these steps and installs the required Anaconda-packages, then the scripts should run without any problems. 
-I have tested this on another computer. Please feel free to contact me with any questions.
+I have tested this on another computer. 
+
+The single subject script just adds some more visualization, for a single subject. But the idea behind is basically the same as the main
+script, so if you'd like, you can skip this script and fully focus on the main script.
+
+Please feel free to contact me with any questions.
 
 
 Cheers,
