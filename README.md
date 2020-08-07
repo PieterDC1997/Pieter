@@ -22,7 +22,8 @@ script, so if you'd like, you can skip this script and fully focus on the main s
 
 
 ###UPDATE###
-I started working on a script to implement TRF's and compute encoding accuracies in a dataset of Holdgraf, based on this repo: https://github.com/choldgraf/paper-encoding_decoding_electrophysiology . I adapted the code and made some extra speech features.
+
+I started working on a script to implement TRF's and compute encoding accuracies in a dataset of Holdgraf, based on this repo: https://github.com/choldgraf/paper-encoding_decoding_electrophysiology . I adapted the code and made some extra speech features. It's all in the directory paper-encoding_decoding_electrophysiology-master . Make sure you add file 'modelingtools' to site-packages in python.  
 
 
 Cheers,
