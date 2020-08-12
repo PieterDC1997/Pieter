@@ -20,6 +20,8 @@ But you can change the organization of the directories, ofc.
 The single subject script just adds some more visualization, for a single subject. But the idea behind is basically the same as the main
 script, so if you'd like, you can skip this script and fully focus on the main script.
 
+For the raw bdf files, please send me an email.
+
 
 Cheers,
 Pieter
