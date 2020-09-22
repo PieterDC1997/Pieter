@@ -1,4 +1,4 @@
-I made this repository 2 months ago for a course. All info and code is in here. Also, the (small) paper I wrote for the course is uploaded here as well. That way, you really know what preprocessing steps I used, why, and some more MNE-background info. 
+I made this repository for a course in Ghent. All info and code is in here. Also, the (small) paper I wrote for the course is uploaded here as well. That way, you really know what preprocessing steps I used, why, and some more MNE-background info. 
 
 The 'pipeline' is based on 3 raw BDF files with EEG data. I made the script parallel for all 3 participants in my pilot study. It contains preprocess steps, grand averages, ERP plots and source localisation.
 
